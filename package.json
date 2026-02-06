@@ -1,0 +1,11 @@
+{
+  "name": "ai-qa-automation-playwright",
+  "version": "1.0.0",
+  "description": "AI-enhanced QA automation using JavaScript and LLMs",
+  "scripts": {
+    "test": "node sample-test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
